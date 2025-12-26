@@ -56,9 +56,36 @@ The system uses a joystick-based input mechanism and physical buttons to navigat
 
 ---
 
+## 🎮 Games Included
+
+The handheld console includes **two simple and accessible games** designed to encourage engagement, memory, and motor coordination. These games are intentionally minimalistic to ensure ease of use for mentally challenged individuals, while remaining enjoyable for everyone.
+
+### 🧠 Memory Game
+
+* Simple pattern or sequence recognition
+* Joystick used for navigation and selection
+* Button used for confirmation
+* Calm gameplay with clear visual feedback on the LCD
+
+### 🏃 Platform Runner
+
+* A basic side-scrolling style game
+* Joystick used for movement/navigation
+* Button used for actions such as jump or select
+* Simple visuals and mechanics to avoid cognitive overload
+
+---
+
 ## ▶️ Working Demonstration
 
 A video demonstrating the complete working of the handheld game console is attached in the repository.
+
+---
+
+## 📁 Project Structure
+
+* Source code for STM32F401
+* Demonstration video
 
 ---
 
