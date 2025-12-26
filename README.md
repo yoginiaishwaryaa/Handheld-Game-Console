@@ -41,7 +41,6 @@ The system uses a joystick-based input mechanism and physical buttons to navigat
 
 * **IDE**: Keil µVision
 * **Programming Language**: Embedded C
-* **MCU Configuration**: STM32 HAL libraries
 * **Communication Protocols**: ADC, I2C, EXTI
 
 ---
