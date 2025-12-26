@@ -77,7 +77,7 @@ The handheld console includes **two simple and accessible games** designed to en
 
 ## ▶️ Working Demonstration
 
-A video demonstrating the complete working of the handheld game console is attached in the repository.
+Videos demonstrating the working of the handheld game console is attached in the repository.
 
 ---
 
