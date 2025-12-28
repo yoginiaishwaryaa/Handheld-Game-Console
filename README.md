@@ -1,6 +1,6 @@
 # Handheld Game Console
 
-## 📌 Project Description
+##  Project Description
 
 This project is a **Handheld Game Console** developed as a **fully working academic embedded system**. It is designed to be simple, intuitive, and accessible, with a special focus on usability for **mentally challenged individuals**, while remaining engaging and usable for everyone.
 
@@ -16,7 +16,7 @@ The system uses a joystick-based input mechanism and physical buttons to navigat
 
 ---
 
-## 🧩 Features
+##  Features
 
 * Fully functional handheld embedded system
 * Joystick-based navigation using ADC
@@ -37,7 +37,7 @@ The system uses a joystick-based input mechanism and physical buttons to navigat
 
 ---
 
-## 💻 Software & Tools
+##  Software & Tools
 
 * **IDE**: Keil µVision
 * **Programming Language**: Embedded C
@@ -45,7 +45,7 @@ The system uses a joystick-based input mechanism and physical buttons to navigat
 
 ---
 
-## ⚙️ System Overview
+##  System Overview
 
 * The joystick provides analog input to the MCU via ADC channels
 * Button presses are handled using EXTI interrupts
@@ -59,14 +59,14 @@ The system uses a joystick-based input mechanism and physical buttons to navigat
 
 The handheld console includes **two simple and accessible games** designed to encourage engagement, memory, and motor coordination. These games are intentionally minimalistic to ensure ease of use for mentally challenged individuals, while remaining enjoyable for everyone.
 
-### 🧠 Memory Game
+###  Memory Game
 
 * Simple pattern or sequence recognition
 * Joystick used for navigation and selection
 * Button used for confirmation
 * Calm gameplay with clear visual feedback on the LCD
 
-### 🏃 Platform Runner
+###  Platform Runner
 
 * A basic side-scrolling style game
 * Joystick used for movement/navigation
@@ -75,20 +75,13 @@ The handheld console includes **two simple and accessible games** designed to en
 
 ---
 
-## ▶️ Working Demonstration
+##  Working Demonstration
 
 Videos demonstrating the working of the handheld game console is attached in the repository.
 
 ---
 
-## 📁 Project Structure
-
-* Source code for STM32F401
-* Demonstration video
-
----
-
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**.
 
